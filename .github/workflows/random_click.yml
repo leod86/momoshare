@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule: # 如需修改运行次数，请修改此表达式，在线生成表达式：https://cron.qqe2.com/
-    - cron: '36 4,6,7,9,10 * * *' 
+    - cron: '0 0/20 * * * ? *' 
   workflow_dispatch:
   watch:
     types: started
