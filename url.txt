@@ -1,1 +1,1 @@
-@长风 qt的开发规范？ C++的开发规范可以看https://zh-google-styleguide.readthedocs.io/en/latest/
+https://www.maimemo.com/share/page?uid=18792482&pid=12dcf13aa95b07ae684d1e41b2596fc9&tid=04d21b1fc5df6b4b372ce356d4592944
